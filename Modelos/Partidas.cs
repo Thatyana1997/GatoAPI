@@ -3,7 +3,7 @@
     public class Partidas
     {
         public int IdPartida { get; set; }
-
+         
         public string JugadorActual { get; set; } = "X";
 
         public string Estado { get; set; } = "A";
